@@ -197,3 +197,5 @@ The application is designed for practical document Q&A, including the following 
 ## Summary
 
 This project is a local, document-aware AI assistant for retrieving and answering questions from user-uploaded files. It combines the key elements of modern RAG systems: ingestion, chunking, embedding, vector storage, retrieval, ranking, and grounded generation. The result is a more transparent and practical document assistant that users can inspect, trust, and manage locally.
+#   R A G  
+ 
